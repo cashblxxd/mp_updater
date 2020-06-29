@@ -1,1 +1,1 @@
-web: gunicorn server:app
+web: gunicorn update_daemon:app
